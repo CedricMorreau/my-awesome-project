@@ -1,1 +1,1 @@
-[website van zuyd.nl](https://zuyd.nl)
+(https://zuyd.nl)
