@@ -17,7 +17,7 @@ const Menu = () => {
             <div class="list_grid_right">
                <li>Week 4</li>
                <li>Week 5</li>
-               <li>Week 6</li>
+               <li>Week 4</li>
             </div>
 
             <div class="list_grid_socials">
