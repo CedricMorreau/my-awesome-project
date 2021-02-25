@@ -5,9 +5,10 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  assetPrefix: '__GATSBY_RELATIVE_PATH__',
   plugins: [
-    `gatsby-plugin-sass`
+    `gatsby-plugin-sass`,
+    'gatsby-plugin-relative-paths',
   ],
   pathPrefix: "/my-awesome-project"
 }

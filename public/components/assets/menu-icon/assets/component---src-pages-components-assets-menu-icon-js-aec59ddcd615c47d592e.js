@@ -1,0 +1,1 @@
+/Users/cedricmorreau/Documents/GitHub/my-first-repo/public/assets/component---src-pages-components-assets-menu-icon-js-aec59ddcd615c47d592e.js
