@@ -1,3 +1,3 @@
 https://zuyd.nl
 
-(port1.png)
+<img src="port1.png" width="100" />
