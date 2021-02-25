@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-components-header-js": () => import("./../../../src/pages/components/header.js" /* webpackChunkName: "component---src-pages-components-header-js" */),
   "component---src-pages-components-layout-js": () => import("./../../../src/pages/components/layout.js" /* webpackChunkName: "component---src-pages-components-layout-js" */),
   "component---src-pages-components-menu-js": () => import("./../../../src/pages/components/menu.js" /* webpackChunkName: "component---src-pages-components-menu-js" */),
+  "component---src-pages-components-week-1-js": () => import("./../../../src/pages/components/week1.js" /* webpackChunkName: "component---src-pages-components-week-1-js" */),
   "component---src-pages-components-welcome-js": () => import("./../../../src/pages/components/welcome.js" /* webpackChunkName: "component---src-pages-components-welcome-js" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */)
 }
