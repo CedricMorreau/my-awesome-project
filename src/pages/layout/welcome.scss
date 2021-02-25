@@ -1,0 +1,15 @@
+.welcome_wrapper{
+    height: 82vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    span{
+        font-size: 5vw;
+    }
+
+    .show-spaced{
+        margin-right: 1.5vw;
+    }
+}
