@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'gatsby'
 
 import GithubIcon from './assets/github-icon'
 import InstagramIcon from './assets/ig-icon'
