@@ -12,12 +12,27 @@
     li{
         padding: 3px 0 3px 0;
         font-weight: 100;
+        color: #121212;
+    }
+
+    li:hover{
+        color: #ededed;
+        transition: 0.5s ease-out;
     }
 
     .list_grid_socials-git{
         display: inline-block;
         margin-right: 1vw;
 
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    .menu_icon-hover:hover{
+        opacity: 0.3;
+        transition: 0.5s ease-out;
     }
 }
 
